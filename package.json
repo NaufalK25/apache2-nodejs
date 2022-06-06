@@ -1,7 +1,7 @@
 {
     "name": "apache2-nodejs",
     "version": "1.0.0",
-    "description": "Simple Apache Web Server Built with Node.js",
+    "description": "Simple Apache2 Web Server to use reverse proxy with Node.js",
     "main": "app.js",
     "scripts": {
         "start": "node app.js",
